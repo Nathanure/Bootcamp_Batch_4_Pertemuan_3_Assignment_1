@@ -1,0 +1,3 @@
+Hi menggunakan writeFileSync
+Hi menggunakan writeFileSync
+Hi menggunakan writeFileSync
