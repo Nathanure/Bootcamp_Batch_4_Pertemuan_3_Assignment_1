@@ -23,4 +23,4 @@ rl.question('What\'s your name? ', (name) => {
             rl.close();
         })
     })
-})
+});
